@@ -1,2 +1,2 @@
 # icpcScraps
-All my different code solutions during ICPC at UCLA
+Different code solutions for varius contests and problems as part of ACM - ICPC at UCLA.
