@@ -1,3 +1,6 @@
+#Description
+#This program inputs a list of line length requirements to solve a coding problem and a lines per minute that you can type.
+#The output is the max number of problems I would solve in an optimal situation given the time constraints
 import sys
 inp = []
 for x in sys.stdin:

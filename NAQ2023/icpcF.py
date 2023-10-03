@@ -1,3 +1,6 @@
+#Description:
+#This program inputs a string and counts the number of vowels two times - once including y and once excluding
+#
 import sys
 inp = []
 for x in sys.stdin:
